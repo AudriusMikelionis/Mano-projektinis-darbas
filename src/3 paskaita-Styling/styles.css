@@ -1,0 +1,8 @@
+.css-mygtukas {
+    background-color: blue;
+    color: black;
+}
+
+.css-mygtukas:hover {
+    background-color: aqua;
+}
